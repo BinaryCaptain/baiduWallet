@@ -1,2 +1,0 @@
-# baidu-master
-baidu description
